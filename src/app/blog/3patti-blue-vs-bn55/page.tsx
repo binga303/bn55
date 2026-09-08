@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 
 export default function Blog3PattiBlueVsCardRummy() {
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="3Patti Blue vs BN55: Game Variety Compared (2026)"
         description="How does 3Patti Blue's game selection stack up against BN55's Teen Patti, 10 Cards, Ludo, Tiger vs Dragon and Mines lineup? Full breakdown here."
@@ -93,7 +93,7 @@ export default function Blog3PattiBlueVsCardRummy() {
           <div className="overflow-x-auto mb-8">
             <table className="w-full border-collapse border border-gray-700">
               <thead>
-                <tr className="bg-purple-900">
+                <tr className="bg-[#0d3a0a]">
                   <th className="border border-gray-700 p-4 text-left text-white"></th>
                   <th className="border border-gray-700 p-4 text-left text-white">3Patti Blue</th>
                   <th className="border border-gray-700 p-4 text-left text-white">BN55</th>
@@ -105,7 +105,7 @@ export default function Blog3PattiBlueVsCardRummy() {
                   <td className="border border-gray-700 p-4">1 primary format (Teen Patti-focused)</td>
                   <td className="border border-gray-700 p-4">5 distinct formats</td>
                 </tr>
-                <tr className="bg-purple-900/20">
+                <tr className="bg-[#104008]/40">
                   <td className="border border-gray-700 p-4 font-semibold text-white">Genre range</td>
                   <td className="border border-gray-700 p-4">Card game only</td>
                   <td className="border border-gray-700 p-4">Cards + board game (Ludo) + risk game (Mines)</td>
@@ -115,7 +115,7 @@ export default function Blog3PattiBlueVsCardRummy() {
                   <td className="border border-gray-700 p-4">Verify in-app</td>
                   <td className="border border-gray-700 p-4">English and Urdu</td>
                 </tr>
-                <tr className="bg-purple-900/20">
+                <tr className="bg-[#104008]/40">
                   <td className="border border-gray-700 p-4 font-semibold text-white">Payment methods</td>
                   <td className="border border-gray-700 p-4">Verify in-app</td>
                   <td className="border border-gray-700 p-4">JazzCash &amp; EasyPaisa</td>
@@ -142,19 +142,19 @@ export default function Blog3PattiBlueVsCardRummy() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Comparisons &amp; Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/3patti-gold-vs-bn55" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/3patti-gold-vs-bn55" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">3Patti Gold vs BN55</h4>
               <p className="text-gray-400">Language support and ease of use compared</p>
             </Link>
-            <Link href="/blog/3patti-lucky-vs-bn55" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/3patti-lucky-vs-bn55" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">3Patti Lucky vs BN55</h4>
               <p className="text-gray-400">Bonuses and VIP rewards compared</p>
             </Link>
-            <Link href="/blog/dragon-vs-tiger-andar-bahar-high-payout-games" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/dragon-vs-tiger-andar-bahar-high-payout-games" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Dragon vs Tiger &amp; High-Payout Games</h4>
               <p className="text-gray-400">Guide to fast-paced games in BN55</p>
             </Link>
-            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Complete Beginner&apos;s Guide</h4>
               <p className="text-gray-400">Download, register, and play your first game</p>
             </Link>

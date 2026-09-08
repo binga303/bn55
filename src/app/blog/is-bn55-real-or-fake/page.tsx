@@ -80,7 +80,7 @@ export default function CardRummyRealOrFakePage() {
   };
 
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="Is BN55 Real or Fake to Earn Money? - Complete Guide 2026"
         description="Discover if BN55 app is real or fake. Learn about legitimacy, payment methods, safety tips, and how to identify fake apps."

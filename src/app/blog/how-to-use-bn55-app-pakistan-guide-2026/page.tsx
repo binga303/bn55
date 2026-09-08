@@ -32,7 +32,7 @@ export const metadata: Metadata = {
 
 export default function BlogHowToUseCardRummyGuide() {
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="How to Use BN55 App in Pakistan: Complete Beginner's Guide 2026"
         description="Complete BN55 app guide 2026 for Pakistan: Download, registration, deposit, withdrawal, gameplay & earning tips. Step-by-step tutorial for beginners!"
@@ -65,7 +65,7 @@ export default function BlogHowToUseCardRummyGuide() {
             New to <Link href="/" className="text-[#FFA500] hover:underline font-semibold">BN55</Link>? This guide covers download, sign-up, first deposit, game basics, and your first withdrawal. Follow the steps below to get from install to cashing out in Pakistan.
           </p>
 
-          <div className="bg-gradient-to-r from-purple-800/50 to-orange-600/50 rounded-lg p-8 my-8">
+          <div className="bg-gradient-to-r from-[#104008] to-[#1a5c12]/80 rounded-lg p-8 my-8">
             <p className="text-white text-lg mb-4">
               <strong>📚 What This Guide Covers:</strong>
             </p>
@@ -212,7 +212,7 @@ export default function BlogHowToUseCardRummyGuide() {
             <li>Wait 1-5 minutes for processing (usually instant for JazzCash/EasyPaisa)</li>
           </ol>
 
-          <div className="bg-purple-800/30 border border-purple-600 rounded-lg p-6 my-8">
+          <div className="bg-secondary border border-[#2d6a1e] rounded-lg p-6 my-8">
             <p className="text-white font-semibold mb-2">🎉 First Deposit Bonus</p>
             <p className="text-gray-300 mb-2">
               Your first deposit gets a <strong>100% bonus</strong> up to ₨5,000!
@@ -413,7 +413,7 @@ export default function BlogHowToUseCardRummyGuide() {
           <div className="overflow-x-auto mb-8">
             <table className="w-full border-collapse border border-gray-700">
               <thead>
-                <tr className="bg-purple-900">
+                <tr className="bg-[#0d3a0a]">
                   <th className="border border-gray-700 p-4 text-left text-white">Level</th>
                   <th className="border border-gray-700 p-4 text-left text-white">Daily Rebate</th>
                   <th className="border border-gray-700 p-4 text-left text-white">Level-Up Bonus</th>
@@ -459,7 +459,7 @@ export default function BlogHowToUseCardRummyGuide() {
 
           <h2 className="text-3xl font-bold text-white mt-12 mb-6">Beginner Tips for Maximum Earnings</h2>
           
-          <div className="bg-purple-800/30 border border-purple-600 rounded-lg p-6 my-8">
+          <div className="bg-secondary border border-[#2d6a1e] rounded-lg p-6 my-8">
             <h3 className="text-xl font-semibold text-white mb-4">🎯 Smart Strategies for New Players</h3>
             <ol className="list-decimal pl-6 text-gray-300 space-y-3">
               <li><strong>Start small:</strong> Play ₨10-20 tables until you understand the games</li>
@@ -537,7 +537,7 @@ export default function BlogHowToUseCardRummyGuide() {
 
           <h2 className="text-3xl font-bold text-white mt-12 mb-6">Your First Week Action Plan</h2>
           
-          <div className="bg-gradient-to-r from-orange-600/30 to-purple-800/30 rounded-lg p-8 my-8">
+          <div className="bg-gradient-to-r from-[#c2410c]/30 to-[#104008]/60 rounded-lg p-8 my-8">
             <h3 className="text-xl font-bold text-white mb-4">Follow this 7-day plan for best results:</h3>
             <div className="space-y-4 text-gray-300">
               <div>
@@ -615,19 +615,19 @@ export default function BlogHowToUseCardRummyGuide() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/tips-to-win-big-in-bn55" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/tips-to-win-big-in-bn55" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Tips to Win Big</h4>
               <p className="text-gray-400">Advanced strategies for maximizing earnings</p>
             </Link>
-            <Link href="/blog/create-bn55-account-and-login" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/create-bn55-account-and-login" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Account Creation Guide</h4>
               <p className="text-gray-400">Detailed registration walkthrough</p>
             </Link>
-            <Link href="/blog/bn55-tips-10-smart-tricks" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/bn55-tips-10-smart-tricks" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">10 Smart Tricks</h4>
               <p className="text-gray-400">Proven tips to play safely and win more</p>
             </Link>
-            <Link href="/blog/bn55-bonuses-vip-guide" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/bn55-bonuses-vip-guide" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Bonuses & VIP Guide</h4>
               <p className="text-gray-400">Complete guide to all bonuses and rewards</p>
             </Link>

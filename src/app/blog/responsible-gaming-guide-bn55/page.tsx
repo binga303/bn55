@@ -28,7 +28,7 @@ export const metadata: Metadata = {
 
 export default function BlogResponsibleGamingGuide() {
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="Responsible Gaming Guide: How to Enjoy BN55 Without Addiction or Big Losses 2026"
         description="Complete responsible gaming guide for BN55 2026: How to play safely, avoid addiction, set limits, recognize warning signs, and enjoy gaming without financial harm in Pakistan."
@@ -357,7 +357,7 @@ export default function BlogResponsibleGamingGuide() {
 
           <h2 className="text-3xl font-bold text-white mt-12 mb-6">10. Creating a Healthy Gaming Plan</h2>
           
-          <div className="bg-purple-800/30 border border-purple-600 rounded-lg p-8 my-8">
+          <div className="bg-secondary border border-[#2d6a1e] rounded-lg p-8 my-8">
             <h3 className="text-xl font-bold text-white mb-4">✅ Your Responsible Gaming Checklist</h3>
             <ul className="list-disc pl-6 text-gray-300 space-y-2">
               <li>✅ Set daily deposit limit (5-10% of monthly income max)</li>
@@ -407,11 +407,11 @@ export default function BlogResponsibleGamingGuide() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Safety Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/is-bn55-safe-legal-pakistan" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/is-bn55-safe-legal-pakistan" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Is BN55 Safe and Legal?</h4>
               <p className="text-gray-400">Complete safety and legal guide</p>
             </Link>
-            <Link href="/blog/bn55-tips-10-smart-tricks" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/bn55-tips-10-smart-tricks" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">10 Smart Tips</h4>
               <p className="text-gray-400">Tips for safe and profitable play</p>
             </Link>

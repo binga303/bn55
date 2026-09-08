@@ -31,7 +31,7 @@ export const metadata: Metadata = {
 
 export default function BlogHighPayoutGames() {
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="Dragon vs Tiger, Andar Bahar & More: Best High-Payout Games in BN55 App 2026"
         description="Discover the best high-payout games in BN55: Dragon vs Tiger, Andar Bahar, Teen Patti & Rummy. Learn which games offer highest win rates & fastest earnings in Pakistan 2026!"
@@ -68,7 +68,7 @@ export default function BlogHighPayoutGames() {
           <div className="overflow-x-auto mb-8">
             <table className="w-full border-collapse border border-gray-700">
               <thead>
-                <tr className="bg-purple-900">
+                <tr className="bg-[#0d3a0a]">
                   <th className="border border-gray-700 p-4 text-left text-white">Game</th>
                   <th className="border border-gray-700 p-4 text-left text-white">Win Rate</th>
                   <th className="border border-gray-700 p-4 text-left text-white">Round Time</th>
@@ -158,7 +158,7 @@ export default function BlogHighPayoutGames() {
             <li><strong>Play during off-peak:</strong> Fewer players = faster rounds</li>
           </ul>
 
-          <div className="bg-purple-800/30 border border-purple-600 rounded-lg p-6 my-8">
+          <div className="bg-secondary border border-[#2d6a1e] rounded-lg p-6 my-8">
             <p className="text-white font-semibold mb-2">🏆 Why Dragon vs Tiger is #1 for Payouts</p>
             <p className="text-gray-300">
               Highest win rate (50%), fastest rounds (30 seconds), simplest rules, and potential for massive Tie payouts. Perfect for both beginners and experienced players looking for quick earnings.
@@ -286,7 +286,7 @@ export default function BlogHighPayoutGames() {
 
           <h2 className="text-3xl font-bold text-white mt-12 mb-6">Which Game Offers Highest Payouts?</h2>
           
-          <div className="bg-gradient-to-r from-purple-800 to-orange-600 rounded-lg p-8 my-8">
+          <div className="bg-gradient-to-r from-[#0d3a0a] to-[#c2410c] rounded-lg p-8 my-8">
             <h3 className="text-2xl font-bold text-white mb-4">🏆 Payout Ranking (Best to Good)</h3>
             <ol className="list-decimal pl-6 text-white space-y-3 text-lg">
               <li>
@@ -387,11 +387,11 @@ export default function BlogHighPayoutGames() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Articles</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/tips-to-win-big-in-bn55" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/tips-to-win-big-in-bn55" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Tips to Win Big in BN55</h4>
               <p className="text-gray-400">Advanced strategies for maximizing earnings</p>
             </Link>
-            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Complete Beginner's Guide</h4>
               <p className="text-gray-400">Learn how to use BN55 app</p>
             </Link>

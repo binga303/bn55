@@ -42,7 +42,7 @@ export default function LoginProblemsPage() {
         datePublished="2026-02-20"
       />
       <BreadcrumbSchema items={[{name: "Home", url: "https://bn55apk.net.pk"}, {name: "Blog", url: "https://bn55apk.net.pk/blog"}, {name: "BN55 Login Problems & Solutions", url: "https://bn55apk.net.pk/blog/bn55-login-problems-solutions-2026-guide"}]} />
-      <div className="min-h-screen bg-[#060A20]">
+      <div className="min-h-screen bg-primary">
         <div className="container mx-auto px-4 py-12">
           <div className="mb-6">
             <Link href="/blog" className="text-accent hover:text-accent font-semibold inline-flex items-center">

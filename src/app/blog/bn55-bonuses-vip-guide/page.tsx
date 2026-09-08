@@ -31,7 +31,7 @@ export const metadata: Metadata = {
 
 export default function BlogCardRummyBonusesVIPGuide() {
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="BN55 Bonuses Explained: Welcome Bonus, Recharge Rebate, and VIP Rewards Guide 2026"
         description="Complete BN55 bonuses guide 2026: Welcome bonus, recharge rebate, VIP levels, referral commission, daily tasks & step-by-step guide to maximize rewards in Pakistan!"
@@ -68,7 +68,7 @@ export default function BlogCardRummyBonusesVIPGuide() {
           <div className="overflow-x-auto mb-8">
             <table className="w-full border-collapse border border-gray-700">
               <thead>
-                <tr className="bg-purple-900">
+                <tr className="bg-[#0d3a0a]">
                   <th className="border border-gray-700 p-4 text-left text-white">Bonus Type</th>
                   <th className="border border-gray-700 p-4 text-left text-white">Amount</th>
                   <th className="border border-gray-700 p-4 text-left text-white">How to Get</th>
@@ -163,7 +163,7 @@ export default function BlogCardRummyBonusesVIPGuide() {
           </ul>
 
           <h3 className="text-2xl font-semibold text-white mt-8 mb-4">First Deposit Bonus Examples</h3>
-          <div className="bg-purple-800/30 border border-purple-600 rounded-lg p-6 my-8">
+          <div className="bg-secondary border border-[#2d6a1e] rounded-lg p-6 my-8">
             <p className="text-white font-semibold mb-4">💰 Bonus Calculation Examples</p>
             <ul className="list-disc pl-6 text-gray-300 space-y-2">
               <li><strong>Deposit ₨1,000:</strong> Get ₨1,000 bonus = ₨2,000 total</li>
@@ -192,7 +192,7 @@ export default function BlogCardRummyBonusesVIPGuide() {
           <div className="overflow-x-auto mb-8">
             <table className="w-full border-collapse border border-gray-700">
               <thead>
-                <tr className="bg-purple-900">
+                <tr className="bg-[#0d3a0a]">
                   <th className="border border-gray-700 p-4 text-left text-white">VIP Level</th>
                   <th className="border border-gray-700 p-4 text-left text-white">Daily Rebate Rate</th>
                   <th className="border border-gray-700 p-4 text-left text-white">Example (₨10,000 deposit)</th>
@@ -256,7 +256,7 @@ export default function BlogCardRummyBonusesVIPGuide() {
 
           <h3 className="text-2xl font-semibold text-white mt-8 mb-4">Complete VIP Level Breakdown</h3>
           <div className="space-y-6 mb-8">
-            <div className="bg-purple-800/30 border border-purple-600 rounded-lg p-6">
+            <div className="bg-secondary border border-[#2d6a1e] rounded-lg p-6">
               <h4 className="text-xl font-semibold text-white mb-3">VIP 1-3: Bronze Tier</h4>
               <ul className="list-disc pl-6 text-gray-300 space-y-1">
                 <li>Daily Rebate: 5-8%</li>
@@ -266,7 +266,7 @@ export default function BlogCardRummyBonusesVIPGuide() {
               </ul>
             </div>
 
-            <div className="bg-purple-800/30 border border-purple-600 rounded-lg p-6">
+            <div className="bg-secondary border border-[#2d6a1e] rounded-lg p-6">
               <h4 className="text-xl font-semibold text-white mb-3">VIP 4-6: Silver Tier</h4>
               <ul className="list-disc pl-6 text-gray-300 space-y-1">
                 <li>Daily Rebate: 9-11%</li>
@@ -277,7 +277,7 @@ export default function BlogCardRummyBonusesVIPGuide() {
               </ul>
             </div>
 
-            <div className="bg-purple-800/30 border border-purple-600 rounded-lg p-6">
+            <div className="bg-secondary border border-[#2d6a1e] rounded-lg p-6">
               <h4 className="text-xl font-semibold text-white mb-3">VIP 7-9: Gold Tier</h4>
               <ul className="list-disc pl-6 text-gray-300 space-y-1">
                 <li>Daily Rebate: 12-14%</li>
@@ -439,7 +439,7 @@ export default function BlogCardRummyBonusesVIPGuide() {
 
           <h2 className="text-3xl font-bold text-white mt-12 mb-6">Maximizing All Bonuses - Complete Strategy</h2>
           
-          <div className="bg-gradient-to-r from-purple-800 to-orange-600 rounded-lg p-8 my-8">
+          <div className="bg-gradient-to-r from-[#0d3a0a] to-[#c2410c] rounded-lg p-8 my-8">
             <h3 className="text-xl font-bold text-white mb-4">🎯 Ultimate Bonus Maximization Plan</h3>
             <ol className="list-decimal pl-6 text-white space-y-3">
               <li>
@@ -532,11 +532,11 @@ export default function BlogCardRummyBonusesVIPGuide() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Complete Beginner's Guide</h4>
               <p className="text-gray-400">Learn how to use BN55 app</p>
             </Link>
-            <Link href="/blog/tips-to-win-big-in-bn55" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/tips-to-win-big-in-bn55" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Tips to Win Big</h4>
               <p className="text-gray-400">Maximize your earnings with smart strategies</p>
             </Link>

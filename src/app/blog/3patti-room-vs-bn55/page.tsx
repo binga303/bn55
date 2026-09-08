@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 
 export default function Blog3PattiRoomVsCardRummy() {
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="3Patti Room vs BN55: Safety & Source Verification (2026)"
         description="Before installing 3Patti Room or BN55, here's how to check you're downloading from a genuine source — a safety-first comparison."
@@ -82,7 +82,7 @@ export default function Blog3PattiRoomVsCardRummy() {
           <div className="overflow-x-auto mb-8">
             <table className="w-full border-collapse border border-gray-700">
               <thead>
-                <tr className="bg-purple-900">
+                <tr className="bg-[#0d3a0a]">
                   <th className="border border-gray-700 p-4 text-left text-white">Factor</th>
                   <th className="border border-gray-700 p-4 text-left text-white">3Patti Room</th>
                   <th className="border border-gray-700 p-4 text-left text-white">BN55</th>
@@ -94,7 +94,7 @@ export default function Blog3PattiRoomVsCardRummy() {
                   <td className="border border-gray-700 p-4">Verify — check for lookalike/mirror domains before downloading</td>
                   <td className="border border-gray-700 p-4">Single official domain</td>
                 </tr>
-                <tr className="bg-purple-900/20">
+                <tr className="bg-[#104008]/40">
                   <td className="border border-gray-700 p-4 font-semibold text-white">Policy pages present</td>
                   <td className="border border-gray-700 p-4">Site-dependent</td>
                   <td className="border border-gray-700 p-4">Privacy Policy, Disclaimer, About/Contact all published</td>
@@ -104,7 +104,7 @@ export default function Blog3PattiRoomVsCardRummy() {
                   <td className="border border-gray-700 p-4">Site-dependent</td>
                   <td className="border border-gray-700 p-4">Dedicated troubleshooting/security guide available</td>
                 </tr>
-                <tr className="bg-purple-900/20">
+                <tr className="bg-[#104008]/40">
                   <td className="border border-gray-700 p-4 font-semibold text-white">Payment methods named explicitly</td>
                   <td className="border border-gray-700 p-4">Verify in-app</td>
                   <td className="border border-gray-700 p-4">JazzCash &amp; EasyPaisa</td>
@@ -138,19 +138,19 @@ export default function Blog3PattiRoomVsCardRummy() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Comparisons &amp; Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/is-bn55-safe-legal-pakistan" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/is-bn55-safe-legal-pakistan" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Is BN55 Safe &amp; Legal?</h4>
               <p className="text-gray-400">Legal status, risks, and safe play tips for Pakistan</p>
             </Link>
-            <Link href="/blog/is-bn55-real-or-fake" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/is-bn55-real-or-fake" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Is BN55 Real or Fake?</h4>
               <p className="text-gray-400">Honest look at legitimacy and user experiences</p>
             </Link>
-            <Link href="/blog/ips-exceed-issue-bn55-how-to-fix" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/ips-exceed-issue-bn55-how-to-fix" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">IP Exceed Error: How to Fix</h4>
               <p className="text-gray-400">Why account limits happen and how to resolve them</p>
             </Link>
-            <Link href="/blog/responsible-gaming-guide-bn55" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/responsible-gaming-guide-bn55" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Responsible Gaming Guide</h4>
               <p className="text-gray-400">Set limits and play safely with real money</p>
             </Link>

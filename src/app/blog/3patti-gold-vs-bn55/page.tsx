@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 
 export default function Blog3PattiGoldVsCardRummy() {
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="3Patti Gold vs BN55: Language Support & Ease of Use (2026)"
         description="A look at how accessible 3Patti Gold and BN55 are for everyday Pakistani users — Urdu support, interface simplicity, and setup friction compared."
@@ -85,7 +85,7 @@ export default function Blog3PattiGoldVsCardRummy() {
           <div className="overflow-x-auto mb-8">
             <table className="w-full border-collapse border border-gray-700">
               <thead>
-                <tr className="bg-purple-900">
+                <tr className="bg-[#0d3a0a]">
                   <th className="border border-gray-700 p-4 text-left text-white">Factor</th>
                   <th className="border border-gray-700 p-4 text-left text-white">3Patti Gold</th>
                   <th className="border border-gray-700 p-4 text-left text-white">BN55</th>
@@ -97,7 +97,7 @@ export default function Blog3PattiGoldVsCardRummy() {
                   <td className="border border-gray-700 p-4">Verify current app version</td>
                   <td className="border border-gray-700 p-4">English and Urdu</td>
                 </tr>
-                <tr className="bg-purple-900/20">
+                <tr className="bg-[#104008]/40">
                   <td className="border border-gray-700 p-4 font-semibold text-white">Step-by-step beginner guide</td>
                   <td className="border border-gray-700 p-4">App-dependent</td>
                   <td className="border border-gray-700 p-4">Dedicated setup/login guide available</td>
@@ -109,7 +109,7 @@ export default function Blog3PattiGoldVsCardRummy() {
                     <Link href="/blog/bn55-login-problems-solutions-2026-guide" className="text-[#FFA500] hover:underline">Login problems &amp; solutions guide</Link> available
                   </td>
                 </tr>
-                <tr className="bg-purple-900/20">
+                <tr className="bg-[#104008]/40">
                   <td className="border border-gray-700 p-4 font-semibold text-white">Game count to learn at once</td>
                   <td className="border border-gray-700 p-4">Verify in-app</td>
                   <td className="border border-gray-700 p-4">5 formats (can be a plus or a lot to take in, depending on preference)</td>
@@ -138,19 +138,19 @@ export default function Blog3PattiGoldVsCardRummy() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Comparisons &amp; Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Complete Beginner&apos;s Guide</h4>
               <p className="text-gray-400">Step-by-step setup, registration, and first deposit</p>
             </Link>
-            <Link href="/blog/bn55-login-problems-solutions-2026-guide" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/bn55-login-problems-solutions-2026-guide" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Login Problems &amp; Solutions</h4>
               <p className="text-gray-400">Fix wrong password, OTP, and account lock issues</p>
             </Link>
-            <Link href="/blog/3patti-blue-vs-bn55" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/3patti-blue-vs-bn55" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">3Patti Blue vs BN55</h4>
               <p className="text-gray-400">Game variety compared side by side</p>
             </Link>
-            <Link href="/blog/create-bn55-account-and-login" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/create-bn55-account-and-login" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Create Account &amp; Login</h4>
               <p className="text-gray-400">Quick walkthrough for new users</p>
             </Link>

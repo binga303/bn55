@@ -27,7 +27,7 @@ export const metadata: Metadata = {
 
 export default function Blog3PattiLuckyVsCardRummy() {
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="3Patti Lucky vs BN55: Bonuses & VIP Rewards Compared (2026)"
         description="Comparing welcome bonuses, referral rewards, and VIP tiers between 3Patti Lucky and BN55 — what to check before you claim any offer."
@@ -82,7 +82,7 @@ export default function Blog3PattiLuckyVsCardRummy() {
           <div className="overflow-x-auto mb-8">
             <table className="w-full border-collapse border border-gray-700">
               <thead>
-                <tr className="bg-purple-900">
+                <tr className="bg-[#0d3a0a]">
                   <th className="border border-gray-700 p-4 text-left text-white">Factor</th>
                   <th className="border border-gray-700 p-4 text-left text-white">3Patti Lucky</th>
                   <th className="border border-gray-700 p-4 text-left text-white">BN55</th>
@@ -94,7 +94,7 @@ export default function Blog3PattiLuckyVsCardRummy() {
                   <td className="border border-gray-700 p-4">App-dependent, check current terms</td>
                   <td className="border border-gray-700 p-4">Documented in dedicated guide</td>
                 </tr>
-                <tr className="bg-purple-900/20">
+                <tr className="bg-[#104008]/40">
                   <td className="border border-gray-700 p-4 font-semibold text-white">VIP tier structure</td>
                   <td className="border border-gray-700 p-4">Category-standard</td>
                   <td className="border border-gray-700 p-4">Explicitly tiered, detailed in bonus guide</td>
@@ -104,7 +104,7 @@ export default function Blog3PattiLuckyVsCardRummy() {
                   <td className="border border-gray-700 p-4">Verify in-app</td>
                   <td className="border border-gray-700 p-4">Documented, step-by-step earning guide</td>
                 </tr>
-                <tr className="bg-purple-900/20">
+                <tr className="bg-[#104008]/40">
                   <td className="border border-gray-700 p-4 font-semibold text-white">Games eligible for bonus play</td>
                   <td className="border border-gray-700 p-4">Verify in-app</td>
                   <td className="border border-gray-700 p-4">Varies by promotion — check current terms</td>
@@ -131,19 +131,19 @@ export default function Blog3PattiLuckyVsCardRummy() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Comparisons &amp; Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/bn55-bonuses-vip-guide" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/bn55-bonuses-vip-guide" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">BN55 Bonuses &amp; VIP Guide</h4>
               <p className="text-gray-400">Full breakdown of welcome offers and VIP tiers</p>
             </Link>
-            <Link href="/blog/ways-to-earn-money-with-bn55-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/ways-to-earn-money-with-bn55-2026" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Ways to Earn with BN55</h4>
               <p className="text-gray-400">Referrals, bonuses, and VIP rewards explained</p>
             </Link>
-            <Link href="/blog/3patti-blue-vs-bn55" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/3patti-blue-vs-bn55" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">3Patti Blue vs BN55</h4>
               <p className="text-gray-400">Game variety compared side by side</p>
             </Link>
-            <Link href="/blog/3patti-room-vs-bn55" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/3patti-room-vs-bn55" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">3Patti Room vs BN55</h4>
               <p className="text-gray-400">Safety and source verification compared</p>
             </Link>

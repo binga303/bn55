@@ -31,7 +31,7 @@ export const metadata: Metadata = {
 
 export default function BlogCardRummyTips() {
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="BN55 Tips: 10 Smart Tricks to Play Safely and Win More 2026"
         description="10 proven BN55 tips and tricks 2026: Bankroll management, game selection, bonus maximization, withdrawal strategies & safe play tips to increase winnings in Pakistan!"
@@ -198,7 +198,7 @@ export default function BlogCardRummyTips() {
           <div className="overflow-x-auto mb-8">
             <table className="w-full border-collapse border border-gray-700">
               <thead>
-                <tr className="bg-purple-900">
+                <tr className="bg-[#0d3a0a]">
                   <th className="border border-gray-700 p-4 text-left text-white">Balance</th>
                   <th className="border border-gray-700 p-4 text-left text-white">Recommended Table</th>
                   <th className="border border-gray-700 p-4 text-left text-white">Max Table</th>
@@ -402,7 +402,7 @@ export default function BlogCardRummyTips() {
 
           <h2 className="text-3xl font-bold text-white mt-12 mb-6">Putting It All Together: Your Daily Routine</h2>
           
-          <div className="bg-gradient-to-r from-purple-800 to-orange-600 rounded-lg p-8 my-8">
+          <div className="bg-gradient-to-r from-[#0d3a0a] to-[#c2410c] rounded-lg p-8 my-8">
             <h3 className="text-xl font-bold text-white mb-4">📅 Optimal Daily BN55 Routine</h3>
             <ol className="list-decimal pl-6 text-white space-y-3">
               <li><strong>Morning (5 minutes):</strong> Check daily tasks, plan which ones to complete</li>
@@ -443,11 +443,11 @@ export default function BlogCardRummyTips() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Complete Beginner's Guide</h4>
               <p className="text-gray-400">Learn the basics of BN55</p>
             </Link>
-            <Link href="/blog/bn55-bonuses-vip-guide" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/bn55-bonuses-vip-guide" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Bonuses & VIP Guide</h4>
               <p className="text-gray-400">Maximize all bonuses and rewards</p>
             </Link>

@@ -28,7 +28,7 @@ export const metadata: Metadata = {
 
 export default function BlogIsCardRummySafeLegal() {
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="Is BN55 Safe and Legal in Pakistan? Risks, Rules, and Safe Play Tips 2026"
         description="Is BN55 legal in Pakistan? Complete safety guide 2026: Legal status, risks, security measures, withdrawal safety, and tips for safe play. Know before you play!"
@@ -293,7 +293,7 @@ export default function BlogIsCardRummySafeLegal() {
 
           <h2 className="text-3xl font-bold text-white mt-12 mb-6">Safe Play Checklist</h2>
           
-          <div className="bg-purple-800/30 border border-purple-600 rounded-lg p-8 my-8">
+          <div className="bg-secondary border border-[#2d6a1e] rounded-lg p-8 my-8">
             <p className="text-white font-semibold mb-4 text-xl">✅ Before You Start Playing</p>
             <ul className="list-disc pl-6 text-gray-300 space-y-2">
               <li>Download only from official website</li>
@@ -367,11 +367,11 @@ export default function BlogIsCardRummySafeLegal() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Safety Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/responsible-gaming-guide-bn55" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/responsible-gaming-guide-bn55" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Responsible Gaming Guide</h4>
               <p className="text-gray-400">How to play safely without addiction</p>
             </Link>
-            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Complete Beginner's Guide</h4>
               <p className="text-gray-400">Step-by-step safe setup guide</p>
             </Link>

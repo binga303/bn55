@@ -30,7 +30,7 @@ export const metadata: Metadata = {
 
 export default function BlogCardRummyAppReview() {
   return (
-    <main className="min-h-screen bg-[#060A20]">
+    <main className="min-h-screen bg-primary">
       <BlogPostSchema
         title="BN55 App Review 2026: Features, Pros, Cons, and Payout Speed"
         description="Complete BN55 app review 2026: Honest analysis of features, games, bonuses, withdrawal speed, pros & cons. Is BN55 worth it for Pakistan players?"
@@ -63,7 +63,7 @@ export default function BlogCardRummyAppReview() {
             Is <Link href="/" className="text-[#FFA500] hover:underline font-semibold">BN55</Link> worth your time and money? This comprehensive 2026 review covers everything: games, bonuses, withdrawal speed, user experience, and honest pros and cons. Whether you're a beginner or experienced player, this review will help you decide if BN55 is right for you.
           </p>
 
-          <div className="bg-gradient-to-r from-purple-800/50 to-orange-600/50 rounded-lg p-8 my-8">
+          <div className="bg-gradient-to-r from-[#104008] to-[#1a5c12]/80 rounded-lg p-8 my-8">
             <p className="text-white text-2xl font-bold mb-4">Overall Rating: 4.5/5 ⭐</p>
             <p className="text-white text-lg">
               BN55 is one of the best real money gaming apps in Pakistan, with fast withdrawals, generous bonuses, and multiple games. However, it operates in a legal gray area and requires responsible play.
@@ -133,7 +133,7 @@ export default function BlogCardRummyAppReview() {
             <li>⚠️ Occasional app crashes (rare but happens)</li>
           </ul>
 
-          <div className="bg-purple-800/30 border border-purple-600 rounded-lg p-6 my-8">
+          <div className="bg-secondary border border-[#2d6a1e] rounded-lg p-6 my-8">
             <p className="text-white font-semibold mb-2">🎮 Game Variety Verdict</p>
             <p className="text-gray-300">
               Excellent variety. Having 4 games means you can switch based on your mood, skill level, or which game is "hot" at the moment. Much better than apps that only offer 1-2 games.
@@ -255,7 +255,7 @@ export default function BlogCardRummyAppReview() {
             <li>✅ Clear progress tracking</li>
           </ul>
 
-          <div className="bg-purple-800/30 border border-purple-600 rounded-lg p-6 my-8">
+          <div className="bg-secondary border border-[#2d6a1e] rounded-lg p-6 my-8">
             <p className="text-white font-semibold mb-2">💎 VIP Program Verdict</p>
             <p className="text-gray-300">
               Best VIP program among Pakistani gaming apps. The 10-level system with daily rebates up to 15% is unmatched. Serious players can earn significant passive income through VIP rewards.
@@ -343,7 +343,7 @@ export default function BlogCardRummyAppReview() {
 
           <h2 className="text-3xl font-bold text-white mt-12 mb-6">Final Verdict</h2>
           
-          <div className="bg-gradient-to-r from-purple-800 to-orange-600 rounded-lg p-8 my-8">
+          <div className="bg-gradient-to-r from-[#0d3a0a] to-[#c2410c] rounded-lg p-8 my-8">
             <h3 className="text-2xl font-bold text-white mb-4">Overall Rating: 4.5/5 ⭐</h3>
             <p className="text-white text-lg mb-4">
               <strong>BN55 is one of the best real money gaming apps in Pakistan.</strong> It excels in:
@@ -413,19 +413,19 @@ export default function BlogCardRummyAppReview() {
         <aside className="mt-16 pt-8 border-t border-gray-700">
           <h3 className="text-2xl font-bold text-white mb-6">Related Reviews & Guides</h3>
           <div className="grid md:grid-cols-2 gap-6">
-            <Link href="/blog/is-bn55-safe-legal-pakistan" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/is-bn55-safe-legal-pakistan" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Is BN55 Safe and Legal?</h4>
               <p className="text-gray-400">Complete safety and legal analysis for Pakistan players</p>
             </Link>
-            <Link href="/blog/responsible-gaming-guide-bn55" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/responsible-gaming-guide-bn55" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Responsible Gaming Guide</h4>
               <p className="text-gray-400">How to play safely and set smart limits</p>
             </Link>
-            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/how-to-use-bn55-app-pakistan-guide-2026" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">Complete Beginner's Guide</h4>
               <p className="text-gray-400">Download, register, deposit, and play your first game</p>
             </Link>
-            <Link href="/blog/bn55-tips-10-smart-tricks" className="block p-6 bg-purple-800/30 rounded-lg hover:bg-purple-800/50 transition-colors">
+            <Link href="/blog/bn55-tips-10-smart-tricks" className="block p-6 bg-secondary rounded-lg hover:bg-[#145210] transition-colors">
               <h4 className="text-xl font-semibold text-white mb-2">10 Smart Tips to Win More</h4>
               <p className="text-gray-400">Proven strategies to maximize earnings on BN55</p>
             </Link>
