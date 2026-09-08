@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <!-- Homepage - Main app screenshots and branding -->
   <url>
     <loc>https://bn55apk.net.pk/</loc>
     <image:image>
       <image:loc>https://bn55apk.net.pk/feature/og-image.webp</image:loc>
       <image:title>BN55 Pakistan - Teen Patti Earning Game APK</image:title>
-      <image:caption>BN55 - Pakistan's premier Teen Patti gaming platform. Download free APK, play Teen Patti, Rummy, Dragon Tiger. Earn real cash with JazzCash and EasyPaisa.</image:caption>
+      <image:caption>BN55 - Pakistan premier Teen Patti gaming platform. Download free APK, play Teen Patti, Rummy, Dragon Tiger. Earn real cash with JazzCash and EasyPaisa.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://bn55apk.net.pk/BN55.webp</image:loc>
-      <image:title>BN55 – Official Teen Patti APK Download Pakistan 2026</image:title>
+      <image:title>BN55 Official Teen Patti APK Download Pakistan 2026</image:title>
       <image:caption>BN55 official app image. Download free Teen Patti APK for Android in Pakistan. Play Teen Patti, Dragon vs Tiger, Rummy. Real cash rewards via JazzCash and EasyPaisa.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://bn55apk.net.pk/bn55-game-pakistan.webp</image:loc>
       <image:title>BN55 Game Interface - Teen Patti Pakistan</image:title>
       <image:caption>BN55 mobile app game interface and loading screen. Teen Patti, Rummy, Dragon Tiger gameplay.</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://bn55apk.net.pk/bn55-game-pakistan.webp</image:loc>
-      <image:title>BN55 Games Collection Pakistan</image:title>
-      <image:caption>BN55 games collection - Teen Patti, Rummy, Dragon vs Tiger, Andar Bahar. Play and earn real cash in Pakistan.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://bn55apk.net.pk/bn55-rebate.webp</image:loc>
@@ -44,47 +38,39 @@
       <image:title>BN55 Refer and Earn - Referral Bonus</image:title>
       <image:caption>BN55 referral program - Earn money by inviting friends. Refer and earn bonus in Pakistan.</image:caption>
     </image:image>
-    <image:image>
-      <image:loc>https://bn55apk.net.pk/BN55.webp</image:loc>
-      <image:title>BN55 Create Account - Sign Up Pakistan</image:title>
-      <image:caption>BN55 account creation and login. Quick sign up for Teen Patti gaming in Pakistan.</image:caption>
-    </image:image>
   </url>
-  <!-- Deposit page -->
   <url>
     <loc>https://bn55apk.net.pk/deposit-money-in-bn55</loc>
     <image:image>
       <image:loc>https://bn55apk.net.pk/BN55.webp</image:loc>
-      <image:title>BN55 – Deposit Money via JazzCash and EasyPaisa</image:title>
+      <image:title>BN55 Deposit Money via JazzCash and EasyPaisa</image:title>
       <image:caption>How to deposit money in BN55 using JazzCash or EasyPaisa. Quick and secure deposits for Pakistan players.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://bn55apk.net.pk/bn55-deposit-money.webp</image:loc>
-      <image:title>BN55 Deposit Screen – JazzCash EasyPaisa Pakistan</image:title>
+      <image:title>BN55 Deposit Screen JazzCash EasyPaisa Pakistan</image:title>
       <image:caption>Step-by-step deposit screen in BN55 app. Add funds via JazzCash or EasyPaisa instantly.</image:caption>
     </image:image>
   </url>
-  <!-- Withdraw page -->
   <url>
     <loc>https://bn55apk.net.pk/withdraw-money-from-bn55</loc>
     <image:image>
       <image:loc>https://bn55apk.net.pk/BN55.webp</image:loc>
-      <image:title>BN55 – Withdraw Money via JazzCash, EasyPaisa &amp; Bank</image:title>
+      <image:title>BN55 Withdraw Money via JazzCash EasyPaisa and Bank</image:title>
       <image:caption>How to withdraw money from BN55 to JazzCash, EasyPaisa, or bank account in Pakistan.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://bn55apk.net.pk/bn55-withdraw-money.webp</image:loc>
-      <image:title>BN55 Withdrawal Screen – Fast Payout Pakistan</image:title>
+      <image:title>BN55 Withdrawal Screen Fast Payout Pakistan</image:title>
       <image:caption>Step-by-step withdrawal screen in BN55. Cash out winnings to JazzCash or EasyPaisa quickly.</image:caption>
     </image:image>
   </url>
-  <!-- Download page - APK download -->
   <url>
     <loc>https://bn55apk.net.pk/download-bn55</loc>
     <image:image>
       <image:loc>https://bn55apk.net.pk/BN55.webp</image:loc>
-      <image:title>Download BN55 APK v1.152 - Free Android</image:title>
-      <image:caption>Download BN55 Pakistan v1.152 Free Official APK for Android. Teen Patti, Rummy, Dragon Tiger.</image:caption>
+      <image:title>Download BN55 APK v1.168 Free Android</image:title>
+      <image:caption>Download BN55 Pakistan v1.168 Free Official APK for Android. Teen Patti, Rummy, Dragon Tiger.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://bn55apk.net.pk/bn55-rebate.webp</image:loc>
@@ -102,16 +88,14 @@
       <image:caption>BN55 APK - Deposit with JazzCash and EasyPaisa after download.</image:caption>
     </image:image>
   </url>
-  <!-- About page -->
   <url>
     <loc>https://bn55apk.net.pk/about-us</loc>
     <image:image>
       <image:loc>https://bn55apk.net.pk/BN55.webp</image:loc>
       <image:title>About BN55 - Pakistan Card Gaming Platform</image:title>
-      <image:caption>About BN55 - Pakistan's premier Teen Patti and card gaming platform.</image:caption>
+      <image:caption>About BN55 - Pakistan premier Teen Patti and card gaming platform.</image:caption>
     </image:image>
   </url>
-  <!-- PC download page -->
   <url>
     <loc>https://bn55apk.net.pk/bn55-for-pc</loc>
     <image:image>
@@ -120,7 +104,6 @@
       <image:caption>BN55 for PC - Download and play Teen Patti on Windows using Android emulator.</image:caption>
     </image:image>
   </url>
-  <!-- Blog listing -->
   <url>
     <loc>https://bn55apk.net.pk/blog</loc>
     <image:image>
@@ -129,12 +112,11 @@
       <image:caption>BN55 blog - Guides, tips, app reviews, comparison articles for Pakistan players.</image:caption>
     </image:image>
   </url>
-  <!-- Key blog posts with images -->
   <url>
     <loc>https://bn55apk.net.pk/blog/is-bn55-real-or-fake</loc>
     <image:image>
       <image:loc>https://bn55apk.net.pk/BN55.webp</image:loc>
-      <image:title>Is BN55 Real or Fake? - Honest Review</image:title>
+      <image:title>Is BN55 Real or Fake - Honest Review</image:title>
       <image:caption>Is BN55 real or fake? Honest review of BN55 app legitimacy for Pakistan.</image:caption>
     </image:image>
   </url>
@@ -175,7 +157,7 @@
     <image:image>
       <image:loc>https://bn55apk.net.pk/BN55.webp</image:loc>
       <image:title>BN55 Latest Version New Features 2026</image:title>
-      <image:caption>BN55 latest version v1.152 - new features and 2026 updates for Pakistan.</image:caption>
+      <image:caption>BN55 latest version v1.168 - new features and 2026 updates for Pakistan.</image:caption>
     </image:image>
   </url>
   <url>
